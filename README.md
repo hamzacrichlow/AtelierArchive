@@ -45,7 +45,7 @@ Our approach prioritizes artistic presentation through visual design and intuiti
 - [ ] Online synchronization for remote portfolio updates
 - [ ] Release on Apple TV App Store
 
-# Team Members
+# Team Members (Collectively worked as Project Managers, Coders, and Designers)
 - Victoria
 - Anastasia
 - Joseph
