@@ -1,6 +1,7 @@
 # Atelier Archive
 #### (Apple TV Application)
 A curated digital gallery experience designed to showcase creative portfolios on tvOS. Atelier Archive transforms personal artistic collections into immersive exhibitions through thoughtful design and seamless transitions.
+![image](https://github.com/user-attachments/assets/8876d70e-c18b-411a-91c8-1f0b430e03e5)
 
 
 ## About AtelierArchive
