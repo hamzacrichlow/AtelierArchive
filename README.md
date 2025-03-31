@@ -37,6 +37,11 @@ Our approach prioritizes artistic presentation through visual design and intuiti
 - Designed navigation patterns that feel natural with the Apple TV remote
 - Created a visual hierarchy that showcases artwork while maintaining a cohesive gallery experience
 
+###ScreenShot
+
+<img width="1366" alt="Screenshot 2025-03-31 at 1 24 00 PM" src="https://github.com/user-attachments/assets/aa65fa1a-1697-447c-9cca-f4eed4d08c89" />
+
+
 ## Future Roadmap 
 - [ ] Multiple artist profiles and galleries
 - [ ] Customizable frame styles and gallery layouts
